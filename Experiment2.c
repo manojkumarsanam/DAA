@@ -63,5 +63,5 @@ void main()
             }
         }
     }
-    knapsack(n,weight,profit,capacity);
+    knapsack(n, weight,profit,capacity);
 }
