@@ -107,7 +107,7 @@ struct node* optt(int d[],int size)
 }
 void main()
 {
-    int fr[10],n,i;
+    int fr[10],n, i;
     printf("\n Enter the no of files:");
     scanf("%d",&n);
     printf("enter the records of %d file",n);
